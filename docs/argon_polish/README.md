@@ -35,6 +35,7 @@ flowchart LR
 | **04** | [04-能力底座深度图解：MCP网关、连接器、Skill与代码仓库.md](file:///Users/xuye/360/oversea/oversea_AI/docs/argon_polish/04-能力底座深度图解：MCP网关、连接器、Skill与代码仓库.md) | 工具怎么设计才不会乱？提示词、Skill、知识怎么分工？如何让 Agent 读到线上版本代码？ | 开发 MCP 网关、编写业务排查说明、管理多代码仓库时读 |
 | **05** | [05-评估驱动开发（EDD）与安全防护体系.md](file:///Users/xuye/360/oversea/oversea_AI/docs/argon_polish/05-评估驱动开发（EDD）与安全防护体系.md) | 改了一行提示词怎么知道变好还是变差？答错了该改哪里？如何防止提示词注入与数据外泄？ | 搭建评估脚本、日常调优迭代、上线前安全评审时读 |
 | **06** | [06-研发落地路线图与一期实战手册.md](file:///Users/xuye/360/oversea/oversea_AI/docs/argon_polish/06-研发落地路线图与一期实战手册.md) | 一期 M0~M6 具体先做什么后做什么？每个单元怎么交给 AI 写代码、怎么验收、怎么自测？ | **日常开发案头手册**，按里程碑逐个推进 |
+| **07** | [07-核心概念辨析：子Agent与多Agent、连接器与MCP与Skill.md](file:///Users/xuye/360/oversea/oversea_AI/docs/argon_polish/07-核心概念辨析：子Agent与多Agent、连接器与MCP与Skill.md) | 单 Agent、子 Agent、多 Agent 到底有什么区别？连接器、MCP、Skill 各自是什么定位、怎么配合？ | **概念犯迷糊时必读**，用类比+图解彻底通透 |
 
 ---
 
